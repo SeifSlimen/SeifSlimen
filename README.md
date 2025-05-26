@@ -72,8 +72,7 @@ REST APIs, GraphQL, WebSockets, TDD (Jest, Mocha), Agile
 ## 🗣️ Let's Connect
 
 - 💬 Open to collaborations, freelance, and full-time opportunities
-- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 [My Website](https://yourwebsite.com) _(if available)_
+- 📫 How to reach me: [Email](mailto:seifslimen38@gmail.com) | [LinkedIn](https://linkedin.com/in/seif-slimen-a238b4231)
 
 ---
 
