@@ -61,7 +61,7 @@ REST APIs, GraphQL, WebSockets, TDD (Jest, Mocha), Agile
 ## 💡 Projects & Highlights
 
 <!-- Showcase your best repositories below -->
-- 🌟 [Awesome Project 1](https://github.com/SeifSlimen/awesome-project-1) - Brief description of what it does.
+- 🌟 [Awesome Project 1](https://github.com/SeifSlimen/Custom-food-AI) - Custom-food-AI.
 - 🌟 [Open Source Contribution](https://github.com/SeifSlimen/some-open-source) - Brief description of your contribution.
 - 🌟 [Portfolio Website](https://github.com/SeifSlimen/portfolio) - Your personal website or portfolio.
 
